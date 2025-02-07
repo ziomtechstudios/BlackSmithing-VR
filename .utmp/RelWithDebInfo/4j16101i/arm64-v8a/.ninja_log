@@ -1,0 +1,10 @@
+# ninja log v5
+14	922	7596302070494740	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	8667059dc95752d9
+5	939	7596302070696320	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	80aaae9bdc26a901
+23	947	7596302070793919	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	795394136e724b3
+29	961	7596302070909259	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	b012f877b888a63f
+35	1002	7596302071390460	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	36ac4910e18f16fb
+10	1075	7596302072120363	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	c755e98c19096dcd
+18	1227	7596302073649719	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	9a2b1fcaeebc9ba6
+0	1421	7596302075481009	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	e1d9bf8d4aff348c
+1421	1618	7596302077425638	C:/Users/chris/Documents/Blacksmithing VR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/4j16101i/obj/arm64-v8a/libgame.so	3085cb7f921c4113
